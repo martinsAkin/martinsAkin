@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @martinsAkin
-- 👀 I’m interested in Cyber Security and Frontend Development
-- 🌚 I have basic knowledge of Python.
-- 🌱 I’m currently learning React.
-- 💫 I'm proficient in HTML, SCSS AND JAVASCRIPT
-- 💞️ I’m looking to collaborate on frontend projects.
-- 📫 How to reach me on X via @ibiyemimartins.
+- 👀 I’m interested in Cyber Security and Full-Stack Development
+- 🌱 I’m currently learning Dotnet and React-Native.
+- 💫 I'm proficient in HTML, SCSS AND JAVASCRIPT, React and Nextjs.
+- 💞️ I’m looking to collaborate on fullstack projects.
+- 📫 How to reach me via my mail inbox @ inevitableabsolute25@gmail.com.
 
 <!---
 martinsAkin/martinsAkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
