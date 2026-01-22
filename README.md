@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dotnet and React-Native.
 - 💫 I'm proficient in HTML, SCSS, Tailwindcss, JAVASCRIPT, React, Angular and Nextjs.
 - 💞️ I’m looking to collaborate on fullstack projects.
-- 📫 How to reach me via my mail inbox @ ibiyemimartins2@gmail.com
+- 📫 How to reach me via my mail inbox @ martinsakin98@gmail.com
 
 <!---
 martinsAkin/martinsAkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
